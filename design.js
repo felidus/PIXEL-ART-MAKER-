@@ -1,6 +1,3 @@
-// Select color and size input
-
-
 function makeGrid() {
 // selecting input of the grid
 var width, height, color, canvas, rows;
