@@ -44,7 +44,4 @@ submitQuery.click(function(event){
 });
 
 
-//$("body").css({"background-color", "grey"});
 
-
-//$("h2").css({"border : 3px solid grey"});
